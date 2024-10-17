@@ -1,0 +1,14 @@
+C:\Users\kris\Desktop\robots\bin\Debug\net8.0\robots.exe
+C:\Users\kris\Desktop\robots\bin\Debug\net8.0\robots.deps.json
+C:\Users\kris\Desktop\robots\bin\Debug\net8.0\robots.runtimeconfig.json
+C:\Users\kris\Desktop\robots\bin\Debug\net8.0\robots.dll
+C:\Users\kris\Desktop\robots\bin\Debug\net8.0\robots.pdb
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.AssemblyInfoInputs.cache
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.AssemblyInfo.cs
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.csproj.CoreCompileInputs.cache
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.dll
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\refint\robots.dll
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.pdb
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\robots.genruntimeconfig.cache
+C:\Users\kris\Desktop\robots\obj\Debug\net8.0\ref\robots.dll
